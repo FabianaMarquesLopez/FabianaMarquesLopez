@@ -12,6 +12,7 @@
 ## ✨😸 Sobre mí ✨
 ---
 </br>
+
 - 📓 Estudiando: Desarrollo de Aplicaciones Web
 - ✂️ Objetivos: mejorar como desarrolladora
 - 🔭 En búsqueda de una buena oportunidad
