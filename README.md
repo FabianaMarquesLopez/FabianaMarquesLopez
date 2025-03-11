@@ -12,8 +12,6 @@
 ## ✨😸 Sobre mí ✨
 ---
 </br>
-
-- 📫 Gmail: ff.ml24588@gmail.com
 - 📓 Estudiando: Desarrollo de Aplicaciones Web
 - ✂️ Objetivos: mejorar como desarrolladora
 - 🔭 En búsqueda de una buena oportunidad
